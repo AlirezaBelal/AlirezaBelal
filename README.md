@@ -1,6 +1,13 @@
 <a href="https://github.com/AlirezaBelal">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlirezaBelal&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
 
+<br><br>
+
+<a href="https://github.com/AlirezaBelal">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBelal&theme=dark" />
+</a>
+
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/AlirezaBelal) -->
 <!--
