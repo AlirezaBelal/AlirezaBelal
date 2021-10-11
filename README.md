@@ -1,7 +1,7 @@
 <!-- <a href="https://github.com/AlirezaBelal">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlirezaBelal&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
  -->
-<br><br>
+<!-- <br><br> -->
 
 <a href="https://github.com/AlirezaBelal">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBelal&theme=dark" />
