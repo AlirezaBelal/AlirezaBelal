@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlirezaBelal/](https://github.com/AlirezaBelal/)
 
-- 💬 Ask me about **Frant**
-
 - 📫 How to reach me **belal.alireza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
