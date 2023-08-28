@@ -17,7 +17,7 @@
 
 <div style="display: flex; border: 3px solid #fff; padding: 20px;">
    <div style="flex: 40%; padding: 20px; border: 2px solid red;">
-    <img width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+    <img width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
    </div>
   
    <div style="flex: 40%; padding: 20px; border: 2px solid red;">
