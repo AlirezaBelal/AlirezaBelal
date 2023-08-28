@@ -16,13 +16,12 @@
 ---
 
 <div style="display: flex; border: 3px solid #fff; padding: 20px;">
-   <div style="flex: 50%; padding: 20px; border: 2px solid red;">
+   <div style="flex: 40%; padding: 20px; border: 2px solid red;">
     <img width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
    </div>
   
-   <div style="flex: 50%; padding: 20px; border: 2px solid red;">
+   <div style="flex: 40%; padding: 20px; border: 2px solid red;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlirezaBelal&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaBelal&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
    </div>
 </div>
 
