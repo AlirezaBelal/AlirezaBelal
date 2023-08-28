@@ -6,12 +6,46 @@
 
 ## Skills
 
-- **General:** Optimization, Systems Biology, Parallel Processing, Data Science
-- **Programming Languages:** Python, PHP
-- **Framework:** Laravel, FastAPI
-- **Database:** MySQL
-- **Familiar:** C, R, Matlab
-- **Tools:** Jupyter, LaTeX, Git, Trello
+- **General:** : Optimization, Systems Biology, Parallel Processing, Data Science
+<br>
+
+
+- **Programming Languages:** : Python, PHP
+<br>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" alt="Python" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80" alt="PHP" />
+</p>
+
+- **Framework:** : Laravel, FastAPI
+<br>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="80" alt="Laravel" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="80" alt="FastAPI" />
+</p>
+
+- **Database:** : MySQL
+<br>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="80" alt="MySQL" />
+</p>
+
+- **Familiar:** : C, R, Matlab
+<br>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" alt="C" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="80" alt="R" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="80" alt="Matlab" />
+</p>
+
+- **Tools:** : Jupyter, Git, Trello , LaTeX
+<br>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="80" alt="Jupyter" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80" alt="Git" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="80" alt="Trello" />
+</p>
+
 
 ---
 
