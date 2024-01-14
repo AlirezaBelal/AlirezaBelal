@@ -6,7 +6,7 @@
 
 ## Skills
 
-- **General:** : Optimization, Systems Biology, Parallel Processing, Data Science
+- **General:**: Optimization, Systems Biology, Parallel Processing, Data Science
 <br>
 
 
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="80" alt="Matlab" />
 </p>
 
-- **Tools:** : Jupyter, Git, Trello , LaTeX
+- **Tools:**: Jupyter, Git, Trello, LaTeX
 <br>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="80" alt="Jupyter" />
