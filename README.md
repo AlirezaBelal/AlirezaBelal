@@ -1,15 +1,15 @@
-<div align="center">
-    <h1>Hi 👋, I'm Alireza Belal</h1>
-    <h3>A back-end developer and Data Analyst</h3>
-    <p>Currently studying at Sharif University of Technology</p>
-    <a href="https://alirezabelal.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge" alt="Website" />
-    </a>
-</div>
+# Hi 👋, I'm Alireza Belal
+
+## A Back-End Developer and Data Analyst
+
+Currently studying at Sharif University of Technology
+
+[![My Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge)](https://alirezabelal.github.io/)
 
 ---
 
 ## About Me
+
 I specialize in **back-end development** and **data analysis**, with a strong focus on Python for both fields. My academic background and professional experience have equipped me with skills in optimization, parallel processing, and data-driven problem-solving.
 
 ---
@@ -17,14 +17,14 @@ I specialize in **back-end development** and **data analysis**, with a strong fo
 ## Skills
 
 ### Programming Languages and Frameworks
+
 | **Languages** | **Frameworks** |
 |---------------|----------------|
 | Python        | Laravel        |
 | PHP           | FastAPI        |
 
----
-
 ### Databases, Tools, and Familiarities
+
 | **Database**  | **Familiar With** | **Tools**        |
 |---------------|-------------------|------------------|
 | MySQL         | C, R, Matlab      | Jupyter, Git, Trello, LaTeX |
@@ -49,14 +49,8 @@ I specialize in **back-end development** and **data analysis**, with a strong fo
 
 ---
 
-## GitHub Stats
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlirezaBelal&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
-</div>
+## GitHub Stats & Contact Me
 
----
-
-## Contact Me
 | Platform       | Link                                                                                           |
 |----------------|------------------------------------------------------------------------------------------------|
 | **GitHub**     | [AlirezaBelal's GitHub](https://github.com/AlirezaBelal)                                       |
@@ -64,5 +58,8 @@ I specialize in **back-end development** and **data analysis**, with a strong fo
 | **Telegram**   | [Telegram Profile](https://t.me/alireza_belal)                                                 |
 | **Website**    | [Visit My Website](https://alirezabelal.github.io/)                                            |
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlirezaBelal&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" alt="Alireza's GitHub Stats" />
+</p>
 
+---
