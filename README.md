@@ -1,7 +1,5 @@
 # Hi 👋, I'm Alireza Belal
 
-## A Back-End Developer and Data Analyst
-
 Currently studying at Sharif University of Technology
 
 [![My Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge)](https://alirezabelal.github.io/)
@@ -10,7 +8,9 @@ Currently studying at Sharif University of Technology
 
 ## About Me
 
-I specialize in **back-end development** and **data analysis**, with a strong focus on Python for both fields. My academic background and professional experience have equipped me with skills in optimization, parallel processing, and data-driven problem-solving.
+I work at the intersection of back-end development, data analysis, and product — I began my career focused on development and data, and over time moved into product work. I prefer to describe what I do and the problems I solve rather than using a fixed job title.
+
+I use Python extensively for both systems and analysis, and I enjoy optimization, parallel processing, and data-driven decision making.
 
 ---
 
@@ -18,16 +18,16 @@ I specialize in **back-end development** and **data analysis**, with a strong fo
 
 ### Programming Languages and Frameworks
 
-| **Languages** | **Frameworks** |
-|---------------|----------------|
-| Python        | Laravel        |
-| PHP           | FastAPI        |
+| Languages | Frameworks |
+|-----------|------------|
+| Python    | Laravel    |
+| PHP       | FastAPI    |
 
 ### Databases, Tools, and Familiarities
 
-| **Database**  | **Familiar With** | **Tools**        |
-|---------------|-------------------|------------------|
-| MySQL         | C, R, Matlab      | Jupyter, Git, Trello, LaTeX |
+| Database | Familiar With     | Tools                     |
+|----------|-------------------|---------------------------|
+| MySQL    | C, R, Matlab      | Jupyter, Git, Trello, LaTeX |
 
 ---
 
@@ -49,17 +49,11 @@ I specialize in **back-end development** and **data analysis**, with a strong fo
 
 ---
 
-## GitHub Stats & Contact Me
+## GitHub Stats & Contact
 
-| Platform       | Link                                                                                           |
-|----------------|------------------------------------------------------------------------------------------------|
-| **GitHub**     | [AlirezaBelal's GitHub](https://github.com/AlirezaBelal)                                       |
-| **LinkedIn**   | [Alireza Belal on LinkedIn](https://www.linkedin.com/in/alirezabelal/)                         |
-| **Telegram**   | [Telegram Profile](https://t.me/alireza_belal)                                                 |
-| **Website**    | [Visit My Website](https://alirezabelal.github.io/)                                            |
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlirezaBelal&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" alt="Alireza's GitHub Stats" />
-</p>
-
----
+| Platform     | Link                                                                 |
+|--------------|----------------------------------------------------------------------|
+| GitHub       | [AlirezaBelal's GitHub](https://github.com/AlirezaBelal)             |
+| LinkedIn     | [Alireza Belal on LinkedIn](https://www.linkedin.com/in/alirezabelal/)|
+| Telegram     | [Telegram Profile](https://t.me/alireza_belal)                       |
+| Website      | [Visit My Website](https://alirezabelal.github.io/)                  |
