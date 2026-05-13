@@ -3,24 +3,22 @@
 Technical Product Manager
 M.Sc. Computer Engineering, Sharif University of Technology
 
-[Website](https://alirezabelal.github.io/)
-[LinkedIn](https://www.linkedin.com/in/alirezabelal/)
-[GitHub](https://github.com/AlirezaBelal)
+[Website](https://alirezabelal.github.io/) | [LinkedIn](https://www.linkedin.com/in/alirezabelal/) | [GitHub](https://github.com/AlirezaBelal)
 
 ---
 
 ## About Me
 
-I build data-heavy products at the intersection of product, data, and distributed systems.
+I build data-heavy products.
 
-I started in backend engineering and moved into product roles focused on scalable systems.
+I work on systems where data quality, user behavior, and system reliability shape product decisions.
 
-I focus on:
+Focus areas:
 
-* Product decisions driven by metrics and user behavior
-* Event-driven systems and data pipelines
-* Attribution, fraud detection, and analytics platforms
-* Experimentation and growth systems
+* Event-driven systems
+* Product analytics and experimentation
+* Attribution and fraud detection systems
+* Scalable data platforms
 
 ---
 
@@ -28,55 +26,18 @@ I focus on:
 
 ### Product
 
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-1f6feb)
-![Roadmapping](https://img.shields.io/badge/Roadmapping-1f6feb)
-![OKRs](https://img.shields.io/badge/OKRs-1f6feb)
-![KPI Design](https://img.shields.io/badge/KPI%20Design-1f6feb)
-![Experimentation](https://img.shields.io/badge/Experimentation-1f6feb)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-1f6feb)
-
----
+Product Strategy, Roadmapping, OKRs, KPI Design, Experimentation, A/B Testing, Funnel Analysis
 
 ### Data
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-</p>
+SQL, Python, ClickHouse, Event Tracking, Data Analysis, Metrics Design, Attribution Systems, Fraud Detection
 
-![SQL](https://img.shields.io/badge/SQL-2ea44f)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-2ea44f)
-![Event%20Tracking](https://img.shields.io/badge/Event%20Tracking-2ea44f)
-![Fraud%20Detection](https://img.shields.io/badge/Fraud%20Detection-2ea44f)
+### Systems
+
+System Design, Event-driven Architecture, Data Pipelines, API Design
 
 ---
 
-### Systems & Engineering
+## Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-</p>
-
-![System Design](https://img.shields.io/badge/System%20Design-black)
-![Event Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-black)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-black)
-![API Design](https://img.shields.io/badge/API%20Design-black)
-
----
-
-### Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-</p>
-
-![Agile](https://img.shields.io/badge/Agile-Scrum-orange)
-![Postman](https://img.shields.io/badge/Postman-API-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
----
+Jira, Notion, Figma, Git, GitHub, Postman, Jupyter, Linux
