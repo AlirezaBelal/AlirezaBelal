@@ -1,59 +1,82 @@
 # Hi 👋, I'm Alireza Belal
 
-Currently studying at Sharif University of Technology
+Technical Product Manager
+M.Sc. Computer Engineering, Sharif University of Technology
 
-[![My Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge)](https://alirezabelal.github.io/)
+[Website](https://alirezabelal.github.io/)
+[LinkedIn](https://www.linkedin.com/in/alirezabelal/)
+[GitHub](https://github.com/AlirezaBelal)
 
 ---
 
 ## About Me
 
-I work at the intersection of back-end development, data analysis, and product — I began my career focused on development and data, and over time moved into product work. I prefer to describe what I do and the problems I solve rather than using a fixed job title.
+I build data-heavy products at the intersection of product, data, and distributed systems.
 
-I use Python extensively for both systems and analysis, and I enjoy optimization, parallel processing, and data-driven decision making.
+I started in backend engineering and moved into product roles focused on scalable systems.
 
----
+I focus on:
 
-## Skills
-
-### Programming Languages and Frameworks
-
-| Languages | Frameworks |
-|-----------|------------|
-| Python    | Laravel    |
-| PHP       | FastAPI    |
-
-### Databases, Tools, and Familiarities
-
-| Database | Familiar With     | Tools                     |
-|----------|-------------------|---------------------------|
-| MySQL    | C, R, Matlab      | Jupyter, Git, Trello, LaTeX |
+* Product decisions driven by metrics and user behavior
+* Event-driven systems and data pipelines
+* Attribution, fraud detection, and analytics platforms
+* Experimentation and growth systems
 
 ---
 
-## Tools and Technologies
+## Core Skills
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" alt="PHP" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="50" alt="Laravel" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="C" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50" alt="R" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="50" alt="Matlab" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="50" alt="Trello" />
+### Product
+
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-1f6feb)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-1f6feb)
+![OKRs](https://img.shields.io/badge/OKRs-1f6feb)
+![KPI Design](https://img.shields.io/badge/KPI%20Design-1f6feb)
+![Experimentation](https://img.shields.io/badge/Experimentation-1f6feb)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-1f6feb)
+
+---
+
+### Data
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 </p>
 
+![SQL](https://img.shields.io/badge/SQL-2ea44f)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-2ea44f)
+![Event%20Tracking](https://img.shields.io/badge/Event%20Tracking-2ea44f)
+![Fraud%20Detection](https://img.shields.io/badge/Fraud%20Detection-2ea44f)
+
 ---
 
-## GitHub Stats & Contact
+### Systems & Engineering
 
-| Platform     | Link                                                                 |
-|--------------|----------------------------------------------------------------------|
-| GitHub       | [AlirezaBelal's GitHub](https://github.com/AlirezaBelal)             |
-| LinkedIn     | [Alireza Belal on LinkedIn](https://www.linkedin.com/in/alirezabelal/)|
-| Telegram     | [Telegram Profile](https://t.me/alireza_belal)                       |
-| Website      | [Visit My Website](https://alirezabelal.github.io/)                  |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+</p>
+
+![System Design](https://img.shields.io/badge/System%20Design-black)
+![Event Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-black)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-black)
+![API Design](https://img.shields.io/badge/API%20Design-black)
+
+---
+
+### Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+</p>
+
+![Agile](https://img.shields.io/badge/Agile-Scrum-orange)
+![Postman](https://img.shields.io/badge/Postman-API-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+---
