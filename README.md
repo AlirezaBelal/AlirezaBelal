@@ -2,32 +2,30 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4600&amp;pause=1600&amp;color=F0F6FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=38&amp;lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4600&amp;pause=1600&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=38&amp;lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4600&amp;pause=1600&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=38&amp;lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" alt="Typing animation: Technical Product Manager, B2B Platforms & Analytics, Data & AI Products, Enterprise Product Delivery" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4600&amp;pause=1600&amp;color=F0F6FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=38&amp;lines=Technical+Product+Manager;B2B+Analytics+%26+Platforms;Data+%26+AI+Products;Enterprise+Delivery+%26+Acceptance" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4600&amp;pause=1600&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=38&amp;lines=Technical+Product+Manager;B2B+Analytics+%26+Platforms;Data+%26+AI+Products;Enterprise+Delivery+%26+Acceptance" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4600&amp;pause=1600&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;height=38&amp;lines=Technical+Product+Manager;B2B+Analytics+%26+Platforms;Data+%26+AI+Products;Enterprise+Delivery+%26+Acceptance" alt="Typing animation: Technical Product Manager, B2B Analytics & Platforms, Data & AI Products, Enterprise Delivery & Acceptance" />
   </picture><br>
   <sub><b>business problems → product decisions → analytics → technical execution</b></sub>
 </p>
 
 <p align="center">
-  <a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Case%20Studies-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/alirezabelal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:belal.alireza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6E7781?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B2B-Analytics-2F6F73?style=flat-square" alt="B2B Analytics" />
   <img src="https://img.shields.io/badge/Data_%26_AI-Products-2F6F73?style=flat-square" alt="Data and AI Products" />
   <img src="https://img.shields.io/badge/Enterprise-Delivery-2F6F73?style=flat-square" alt="Enterprise Delivery" />
-  <img src="https://img.shields.io/badge/Product-Analytics-2F6F73?style=flat-square" alt="Product Analytics" />
-  <img src="https://img.shields.io/badge/Go--to--Market-GTM-2F6F73?style=flat-square" alt="Go-to-Market" />
+  <img src="https://img.shields.io/badge/Product_Analytics_%26_GTM-2F6F73?style=flat-square" alt="Product Analytics and GTM" />
 </p>
 
 ## About
 
-I'm a **Technical Product Manager with a hands-on software engineering foundation**, working where product thinking meets technical complexity — translating business and stakeholder problems into product flows, requirements, analytics, measurable delivery, and practical technical decisions. My background spans **B2B analytics platforms, data/AI products, enterprise technical acceptance, consumer-product launch, and hands-on software/data systems**.
+I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work at the intersection of product thinking and technical complexity — turning stakeholder and business problems into clear product flows, requirements, analytics, delivery decisions, and practical technical execution.
 
-For detailed case studies, outcomes, and full project context, visit my **[portfolio](https://alirezabelal.github.io/)**. GitHub is the home for selected code and technical artifacts.
+My background spans **B2B analytics platforms, data/AI products, enterprise delivery, product analytics, go-to-market, and hands-on software/data systems**. GitHub is where I keep selected code and technical artifacts; the **[portfolio](https://alirezabelal.github.io/)** is the canonical place for full project context and case studies.
 
 ## Experience snapshot
 
@@ -40,28 +38,25 @@ Consumer-product launch, product operations, analytics, monetization, and go-to-
 **WiseTrack** · *Product Manager · Dec 2021 – Mar 2025*  
 Early-stage B2B mobile measurement platform covering attribution, analytics, SDKs, fraud controls, and commercial validation.
 
-## What I work across
+## Product × Technology
 
-- **Product** — discovery, strategy, roadmaps, PRDs, user stories, acceptance criteria, product operations, and cross-functional delivery
+- **Product** — discovery, strategy, roadmaps, PRDs, user stories, acceptance criteria, and product operations
 - **Analytics** — event taxonomy, funnels, cohorts, attribution, dashboards, and metric interpretation
-- **Technical product** — APIs, SDKs, data pipelines, backend integrations, technical acceptance, engineering collaboration, and delivery trade-offs
+- **Technical product** — APIs, SDKs, data pipelines, backend integrations, technical acceptance, and engineering collaboration
 - **Go-to-market** — pilot validation, pricing, subscriptions, launch readiness, acquisition analysis, and monetization
 
-## Selected public repositories
+## Selected code
 
-| Repository | Focus |
-|---|---|
-| **[Batch Messaging Delivery System](https://github.com/AlirezaBelal/batch-messaging-delivery-system)** | Python automation · messaging operations · REST APIs |
-| **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** | ETL · normalization · data quality |
-| **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** | PHP/MySQL · Telegram workflows · operations |
+- **[Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)** — conversational AI · Telegram workflows · PHP · state management
+- **[Batch Messaging Delivery System](https://github.com/AlirezaBelal/batch-messaging-delivery-system)** — Python automation · REST APIs · contact processing · structured logging
+- **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** — ETL · normalization · data quality · Python
+- **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — PHP/MySQL · Telegram workflows · operational automation
 
-More context and case studies → **[alirezabelal.github.io](https://alirezabelal.github.io/)**
-
-## Technical toolkit
+## Technical foundation
 
 **Languages:** Python · PHP · JavaScript  
-**Data:** pandas · ETL · Scraping · MySQL · ClickHouse · Redis/Kafka design context  
-**Integrations:** REST APIs · Webhooks · Telegram Bot API · Docker · Git · GitHub · Postman · Linux  
+**Data & systems:** pandas · ETL · Scrapy · MySQL · ClickHouse · Redis/Kafka *(design context)*  
+**APIs & tooling:** REST APIs · Webhooks · Telegram Bot API · Docker · Git  
 **AI / ML:** TensorFlow · PyTorch · Hugging Face · NLP · Computer Vision
 
 ## Education
@@ -71,6 +66,5 @@ More context and case studies → **[alirezabelal.github.io](https://alirezabela
 
 <p align="center">
   <b>Product strategy × analytics × technical execution</b><br>
-  <sub>Detailed work and case studies live in the portfolio.</sub><br>
-  <a href="https://alirezabelal.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/alirezabelal/">LinkedIn</a> · <a href="mailto:belal.alireza@gmail.com">Email</a>
+  <sub>Full project context and case studies → <a href="https://alirezabelal.github.io/">Portfolio</a></sub>
 </p>
