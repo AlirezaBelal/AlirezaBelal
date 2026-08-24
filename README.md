@@ -2,7 +2,7 @@
 
 # Alireza Belal
 
-<img src="./assets/role-loop.svg" width="780" alt="Animated professional focus: Technical Product Manager, B2B Analytics, Data & AI Products, Enterprise Delivery" />
+<img src="./assets/role-loop.svg" width="780" alt="Animated typing through Technical Product Manager, B2B Platforms & Analytics, Data & AI Products, and Enterprise Product Delivery" />
 
 <p>
   <a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292f?style=for-the-badge" /></a>
@@ -42,16 +42,6 @@ Consumer-product launch, product operations, analytics, monetization, and go-to-
 
 **WiseTrack** · Product Manager · *Dec 2021 – Mar 2025*  
 Early-stage B2B mobile measurement platform covering attribution, analytics, SDKs, fraud controls, and commercial validation.
-
----
-
-## Portfolio landscape
-
-<div align="center">
-  <img src="./assets/project-landscape.svg" width="900" alt="Animated chart of 17 documented projects grouped across AI/NLP/CV, automation and operations, data and analytics, and product prototypes" />
-</div>
-
-The chart groups the **17 documented projects** in my canonical portfolio into broad, non-overlapping categories. Detailed project descriptions belong in the **[portfolio](https://alirezabelal.github.io/)** rather than being duplicated here.
 
 ---
 
