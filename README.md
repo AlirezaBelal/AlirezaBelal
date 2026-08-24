@@ -48,7 +48,7 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 ## Selected code
 
 - **[Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)** — conversational AI · Telegram workflows · PHP · state management
-- **[Batch Messaging Delivery System](https://github.com/AlirezaBelal/batch-messaging-delivery-system)** — Python automation · REST APIs · contact processing · structured logging
+- **[Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation)** — Python automation · REST APIs · campaign orchestration · privacy-aware logging
 - **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** — ETL · normalization · data quality · Python
 - **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — PHP/MySQL · Telegram workflows · operational automation
 
