@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-labelledby="title desc">
+  <title id="title">Alireza Belal professional focus animation</title>
+  <desc id="desc">Animated rotation through Technical Product Manager, B2B Analytics, Data and AI Products, and Enterprise Delivery.</desc>
+  <style>
+    .main { font: 600 22px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill:#24292f; }
+    .sub { font: 400 13px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill:#57606a; letter-spacing:.4px; }
+    .accent { fill:#0969da; }
+    @media (prefers-color-scheme: dark) {
+      .main { fill:#f0f6fc; }
+      .sub { fill:#8b949e; }
+      .accent { fill:#58a6ff; }
+    }
+  </style>
+  <g transform="translate(450 26)" text-anchor="middle">
+    <text class="main" opacity="0">Technical Product Manager
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.20;0.23;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="main" opacity="0">B2B Platforms &amp; Analytics
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.27;0.45;0.48;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="main" opacity="0">Data &amp; AI Products
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.49;0.52;0.70;0.73;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="main" opacity="0">Enterprise Product Delivery
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.74;0.77;0.96;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <rect class="accent" x="155" y="-19" width="3" height="25" rx="1.5">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text class="sub" x="450" y="58" text-anchor="middle">business problems  →  product decisions  →  analytics  →  technical execution</text>
+</svg>
