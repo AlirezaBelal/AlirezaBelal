@@ -2,7 +2,7 @@
 
 # Alireza Belal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&height=45&lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" alt="Typing animation: Technical Product Manager, B2B Platforms & Analytics, Data & AI Products, Enterprise Product Delivery" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1400&color=24292F&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" alt="Typing animation: Technical Product Manager, B2B Platforms & Analytics, Data & AI Products, Enterprise Product Delivery" />
 
 <sub>business problems → product decisions → analytics → technical execution</sub>
 
