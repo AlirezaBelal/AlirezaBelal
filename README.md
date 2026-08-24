@@ -4,10 +4,21 @@
 
 ### Technical Product Manager · Software Engineering Background
 
-**Business problems → product decisions → analytics → technical execution**
+**I connect business problems, product decisions, analytics, and technical execution.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alirezabelal.github.io-24292f?style=flat-square&logo=github)](https://alirezabelal.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alirezabelal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezabelal/)
+<p>
+  <a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292f?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/alirezabelal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:belal.alireza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/B2B-Analytics-2f6f73?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-%26%20AI%20Products-2f6f73?style=flat-square" />
+  <img src="https://img.shields.io/badge/Enterprise-Delivery-2f6f73?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product-Analytics-2f6f73?style=flat-square" />
+  <img src="https://img.shields.io/badge/Go--to--Market-GTM-2f6f73?style=flat-square" />
+</p>
 
 </div>
 
@@ -15,63 +26,141 @@
 
 ## About
 
-I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work where product thinking meets technical complexity — translating business and stakeholder problems into clear product flows, requirements, measurable delivery and practical technical decisions.
+I'm a **Technical Product Manager with a hands-on software engineering foundation**. My work sits at the intersection of product thinking and technical complexity: turning stakeholder needs into product flows, requirements, analytics, delivery processes, and practical technical decisions.
 
-My background spans **B2B analytics platforms, data/AI products, enterprise delivery, product analytics, go-to-market and hands-on software/data work**.
+I've worked across **B2B analytics platforms, data/AI products, enterprise technical acceptance, consumer-product launch, and hands-on software/data systems**.
+
+> For detailed case studies and full project context, visit my **[portfolio](https://alirezabelal.github.io/)**. GitHub is where I keep selected code and technical artifacts.
 
 ---
 
-## Experience snapshot
+## At a glance
 
-**Houbad** · Researcher — Product & Technical Projects · *Sep 2025 – Present*  
-Enterprise product work, smart-ambulance MVP delivery, technical acceptance and project evaluation.
+| Focus | Snapshot |
+|---|---|
+| **Current positioning** | Technical Product Manager / Product Manager |
+| **Strongest domains** | B2B analytics · data/AI products · enterprise delivery |
+| **Working style** | Product discovery · analytics · delivery · technical collaboration |
+| **Technical depth** | Python · PHP · ETL · APIs · backend/data systems · AI/NLP/CV |
 
-**Arian Novin Group — Sepas** · Technical Product Manager / Product & GTM Consultant · *2025*  
-Consumer-product launch, product operations, analytics, monetization and go-to-market.
+---
 
-**WiseTrack** · Product Manager · *Dec 2021 – Mar 2025*  
-Early-stage B2B mobile measurement platform covering attribution, analytics, SDKs, fraud controls and commercial validation.
+## Experience
+
+### Houbad
+**Researcher — Product & Technical Projects** · *Sep 2025 – Present*
+
+Enterprise product work, smart-ambulance MVP delivery, technical acceptance, and project evaluation.
+
+### Arian Novin Group — Sepas
+**Technical Product Manager / Product & GTM Consultant** · *2025*
+
+Consumer-product launch, product operations, analytics, monetization, and go-to-market.
+
+### WiseTrack
+**Product Manager** · *Dec 2021 – Mar 2025*
+
+Early-stage B2B mobile measurement platform covering attribution, analytics, SDKs, fraud controls, and commercial validation.
 
 ---
 
 ## What I work across
 
-- **Product:** discovery, strategy, roadmaps, PRDs, user stories, acceptance criteria and product operations
-- **Analytics:** event taxonomy, funnels, cohorts, attribution, dashboards and metric interpretation
-- **Technical product:** APIs, SDKs, data pipelines, backend integrations and technical acceptance
-- **Go-to-market:** pilot validation, pricing, subscriptions, launch and acquisition analysis
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Product
+- Discovery
+- Strategy
+- Roadmaps
+- PRDs & user stories
+- Acceptance criteria
+- Product operations
+
+</td>
+<td valign="top" width="50%">
+
+### Analytics
+- Event taxonomy
+- Funnels & cohorts
+- Attribution
+- Dashboarding
+- Metric interpretation
+- Experiment-minded thinking
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Technical Product
+- APIs & SDKs
+- Data pipelines
+- Backend integrations
+- Technical acceptance
+- Cross-functional delivery
+- Engineering collaboration
+
+</td>
+<td valign="top" width="50%">
+
+### Go-to-Market
+- Pilot validation
+- Pricing
+- Subscriptions
+- Launch readiness
+- Acquisition analysis
+- Monetization thinking
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Code & public projects
+## Selected public repositories
 
-GitHub is where I keep selected code and technical artifacts. For full context, outcomes and case studies, see my **[portfolio](https://alirezabelal.github.io/)**.
-
-| Repository | Area |
+| Repository | Focus |
 |---|---|
-| **[Batch Messaging Delivery System](https://github.com/AlirezaBelal/batch-messaging-delivery-system)** | Python automation · REST APIs · messaging operations |
-| **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** | ETL · data quality · normalization |
+| **[Batch Messaging Delivery System](https://github.com/AlirezaBelal/batch-messaging-delivery-system)** | Python automation · messaging operations · REST APIs |
+| **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** | ETL · normalization · data quality |
 | **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** | PHP/MySQL · Telegram workflows · operations |
 
-I also work on data products, automation, AI/NLP, computer vision and research prototypes. The portfolio is the canonical place for project descriptions and case studies.
+For deeper project descriptions, outcomes, and case studies, see **[alirezabelal.github.io](https://alirezabelal.github.io/)**.
 
 ---
 
 ## Technical toolkit
 
-**Python · PHP · JavaScript · pandas · ETL · MySQL · ClickHouse · REST APIs · Webhooks · Docker · Git · Scrapy · TensorFlow · PyTorch · Hugging Face · NLP · Computer Vision**
+**Languages & programming**  
+Python · PHP · JavaScript
 
-I use engineering depth to make better product decisions and collaborate effectively with technical teams; my current professional positioning is **Technical Product Manager / Product Manager**.
+**Data & platforms**  
+pandas · ETL · Scraping · MySQL · ClickHouse · Redis/Kafka design context
+
+**Integrations & tooling**  
+REST APIs · Webhooks · Telegram Bot API · Docker · Git · GitHub · Postman · Linux
+
+**AI / ML**  
+TensorFlow · PyTorch · Hugging Face · NLP · Computer Vision
 
 ---
 
 ## Education
 
-**M.Sc. Computer Engineering — Bioinformatics** · Sharif University of Technology · 2021–2024  
-**B.Sc. Computer Engineering** · University of Tabriz · 2017–2021
+**M.Sc. Computer Engineering — Bioinformatics**  
+Sharif University of Technology · 2021–2024
+
+**B.Sc. Computer Engineering**  
+University of Tabriz · 2017–2021
 
 ---
 
-## More
+<div align="center">
 
-For detailed project case studies, professional background, publications and selected work, visit **[alirezabelal.github.io](https://alirezabelal.github.io/)**.
+### Looking for roles where product strategy meets analytics, platform complexity, and real engineering constraints.
+
+**[Portfolio](https://alirezabelal.github.io/) · [LinkedIn](https://www.linkedin.com/in/alirezabelal/) · [Email](mailto:belal.alireza@gmail.com)**
+
+</div>
