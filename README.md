@@ -2,23 +2,27 @@
 
 # Alireza Belal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1400&color=24292F&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" alt="Typing animation: Technical Product Manager, B2B Platforms & Analytics, Data & AI Products, Enterprise Product Delivery" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=4600&amp;pause=1600&amp;color=F0F6FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=44&amp;lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=4600&amp;pause=1600&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=44&amp;lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=4600&amp;pause=1600&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=44&amp;lines=Technical+Product+Manager;B2B+Platforms+%26+Analytics;Data+%26+AI+Products;Enterprise+Product+Delivery" alt="Typing animation: Technical Product Manager, B2B Platforms & Analytics, Data & AI Products, Enterprise Product Delivery" />
+</picture>
 
-<sub>business problems → product decisions → analytics → technical execution</sub>
+<sub><b>business problems → product decisions → analytics → technical execution</b></sub>
 
-<p>
-  <a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292f?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/alirezabelal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:belal.alireza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/B2B-Analytics-2f6f73?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_%26_AI-Products-2f6f73?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enterprise-Delivery-2f6f73?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product-Analytics-2f6f73?style=flat-square" />
-  <img src="https://img.shields.io/badge/Go--to--Market-GTM-2f6f73?style=flat-square" />
-</p>
+<a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/alirezabelal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:belal.alireza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6E7781?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B2B-Analytics-2F6F73?style=flat-square" alt="B2B Analytics" />
+<img src="https://img.shields.io/badge/Data_%26_AI-Products-2F6F73?style=flat-square" alt="Data and AI Products" />
+<img src="https://img.shields.io/badge/Enterprise-Delivery-2F6F73?style=flat-square" alt="Enterprise Delivery" />
+<img src="https://img.shields.io/badge/Product-Analytics-2F6F73?style=flat-square" alt="Product Analytics" />
+<img src="https://img.shields.io/badge/Go--to--Market-GTM-2F6F73?style=flat-square" alt="Go-to-Market" />
 
 </div>
 
@@ -49,56 +53,10 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 
 ## What I work across
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Product
-- Discovery & strategy
-- Roadmaps
-- PRDs & user stories
-- Acceptance criteria
-- Product operations
-- Cross-functional delivery
-
-</td>
-<td valign="top" width="50%">
-
-### Analytics
-- Event taxonomy
-- Funnels & cohorts
-- Attribution
-- Dashboarding
-- Metric interpretation
-- Experiment-minded thinking
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Technical Product
-- APIs & SDKs
-- Data pipelines
-- Backend integrations
-- Technical acceptance
-- Engineering collaboration
-- Delivery constraints & trade-offs
-
-</td>
-<td valign="top" width="50%">
-
-### Go-to-Market
-- Pilot validation
-- Pricing
-- Subscriptions
-- Launch readiness
-- Acquisition analysis
-- Monetization thinking
-
-</td>
-</tr>
-</table>
+- **Product** — discovery, strategy, roadmaps, PRDs, user stories, acceptance criteria, product operations, and cross-functional delivery
+- **Analytics** — event taxonomy, funnels, cohorts, attribution, dashboards, and metric interpretation
+- **Technical product** — APIs, SDKs, data pipelines, backend integrations, technical acceptance, engineering collaboration, and delivery trade-offs
+- **Go-to-market** — pilot validation, pricing, subscriptions, launch readiness, acquisition analysis, and monetization
 
 ---
 
@@ -143,6 +101,10 @@ University of Tabriz · 2017–2021
 <div align="center">
 
 ### Product strategy × analytics × technical execution
+
+<sub>Detailed work, project context, and case studies live in the portfolio.</sub>
+
+<br/><br/>
 
 **[Portfolio](https://alirezabelal.github.io/) · [LinkedIn](https://www.linkedin.com/in/alirezabelal/) · [Email](mailto:belal.alireza@gmail.com)**
 
