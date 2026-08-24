@@ -2,9 +2,7 @@
 
 # Alireza Belal
 
-### Technical Product Manager · Software Engineering Background
-
-**I connect business problems, product decisions, analytics, and technical execution.**
+<img src="./assets/role-loop.svg" width="780" alt="Animated professional focus: Technical Product Manager, B2B Analytics, Data & AI Products, Enterprise Delivery" />
 
 <p>
   <a href="https://alirezabelal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292f?style=for-the-badge" /></a>
@@ -14,7 +12,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/B2B-Analytics-2f6f73?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data-%26%20AI%20Products-2f6f73?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_%26_AI-Products-2f6f73?style=flat-square" />
   <img src="https://img.shields.io/badge/Enterprise-Delivery-2f6f73?style=flat-square" />
   <img src="https://img.shields.io/badge/Product-Analytics-2f6f73?style=flat-square" />
   <img src="https://img.shields.io/badge/Go--to--Market-GTM-2f6f73?style=flat-square" />
@@ -26,41 +24,34 @@
 
 ## About
 
-I'm a **Technical Product Manager with a hands-on software engineering foundation**. My work sits at the intersection of product thinking and technical complexity: turning stakeholder needs into product flows, requirements, analytics, delivery processes, and practical technical decisions.
+I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work where product thinking meets technical complexity — translating business and stakeholder problems into clear product flows, requirements, analytics, measurable delivery, and practical technical decisions.
 
-I've worked across **B2B analytics platforms, data/AI products, enterprise technical acceptance, consumer-product launch, and hands-on software/data systems**.
+My background spans **B2B analytics platforms, data/AI products, enterprise technical acceptance, consumer-product launch, and hands-on software/data systems**.
 
-> For detailed case studies and full project context, visit my **[portfolio](https://alirezabelal.github.io/)**. GitHub is where I keep selected code and technical artifacts.
-
----
-
-## At a glance
-
-| Focus | Snapshot |
-|---|---|
-| **Current positioning** | Technical Product Manager / Product Manager |
-| **Strongest domains** | B2B analytics · data/AI products · enterprise delivery |
-| **Working style** | Product discovery · analytics · delivery · technical collaboration |
-| **Technical depth** | Python · PHP · ETL · APIs · backend/data systems · AI/NLP/CV |
+> GitHub is where I keep selected code and technical artifacts. For full project context, outcomes, and case studies, visit my **[portfolio](https://alirezabelal.github.io/)**.
 
 ---
 
-## Experience
+## Experience snapshot
 
-### Houbad
-**Researcher — Product & Technical Projects** · *Sep 2025 – Present*
-
+**Houbad** · Researcher — Product & Technical Projects · *Sep 2025 – Present*  
 Enterprise product work, smart-ambulance MVP delivery, technical acceptance, and project evaluation.
 
-### Arian Novin Group — Sepas
-**Technical Product Manager / Product & GTM Consultant** · *2025*
-
+**Arian Novin Group — Sepas** · Technical Product Manager / Product & GTM Consultant · *2025*  
 Consumer-product launch, product operations, analytics, monetization, and go-to-market.
 
-### WiseTrack
-**Product Manager** · *Dec 2021 – Mar 2025*
-
+**WiseTrack** · Product Manager · *Dec 2021 – Mar 2025*  
 Early-stage B2B mobile measurement platform covering attribution, analytics, SDKs, fraud controls, and commercial validation.
+
+---
+
+## Portfolio landscape
+
+<div align="center">
+  <img src="./assets/project-landscape.svg" width="900" alt="Animated chart of 17 documented projects grouped across AI/NLP/CV, automation and operations, data and analytics, and product prototypes" />
+</div>
+
+The chart groups the **17 documented projects** in my canonical portfolio into broad, non-overlapping categories. Detailed project descriptions belong in the **[portfolio](https://alirezabelal.github.io/)** rather than being duplicated here.
 
 ---
 
@@ -71,12 +62,12 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 <td valign="top" width="50%">
 
 ### Product
-- Discovery
-- Strategy
+- Discovery & strategy
 - Roadmaps
 - PRDs & user stories
 - Acceptance criteria
 - Product operations
+- Cross-functional delivery
 
 </td>
 <td valign="top" width="50%">
@@ -99,8 +90,8 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 - Data pipelines
 - Backend integrations
 - Technical acceptance
-- Cross-functional delivery
 - Engineering collaboration
+- Delivery constraints & trade-offs
 
 </td>
 <td valign="top" width="50%">
@@ -159,7 +150,7 @@ University of Tabriz · 2017–2021
 
 <div align="center">
 
-### Looking for roles where product strategy meets analytics, platform complexity, and real engineering constraints.
+### Product strategy × analytics × technical execution
 
 **[Portfolio](https://alirezabelal.github.io/) · [LinkedIn](https://www.linkedin.com/in/alirezabelal/) · [Email](mailto:belal.alireza@gmail.com)**
 
