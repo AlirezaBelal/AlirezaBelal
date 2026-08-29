@@ -45,19 +45,31 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 - **Technical product** — APIs, SDKs, data pipelines, backend integrations, technical acceptance, and engineering collaboration
 - **Go-to-market** — pilot validation, pricing, subscriptions, launch readiness, acquisition analysis, and monetization
 
-## Selected code
+## Selected technical portfolio
 
-- **[Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)** — conversational AI · Telegram workflows · PHP · state management
-- **[Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation)** — Python automation · REST APIs · campaign orchestration · privacy-aware logging
-- **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** — ETL · normalization · data quality · Python
-- **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — PHP/MySQL · Telegram workflows · operational automation
+### Product systems & operational automation
+
+- **[Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)** — learner routing · Telegram workflows · persistent state · PHP/MySQL
+- **[Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation)** — campaign orchestration · dry-run safety · REST gateway integration · privacy-aware logging
+- **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** — ETL · normalization · data quality · downstream data contract
+- **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — onboarding · approval workflow · admin operations · Telegram/PHP/MySQL
+- **[WebMonitor](https://github.com/AlirezaBelal/WebMonitor)** — change detection · retry/backoff · state integrity · alert delivery · Docker/systemd
+
+### Engineering utilities
+
+- **[IP Reachability Checker](https://github.com/AlirezaBelal/IPReachabilityChecker)** — bounded network diagnostics · ICMP/TCP · JSON/exit-code automation · cross-platform CI
+- **[LinkedIn Connection Remover](https://github.com/AlirezaBelal/linkedin-connection-remover)** — destructive-action safety · dry-run defaults · fail-closed UI matching · privacy-safe results
+
+### Research
+
+My MSc research artifacts cover drug–target affinity prediction, graph-based modeling, reproducibility, experiment provenance, test-set discipline, and leakage-aware evaluation. The consolidated thesis workspace is kept private because it includes inherited research code/data with unresolved repository-wide redistribution rights.
 
 ## Technical foundation
 
 **Languages:** Python · PHP · JavaScript  
 **Data & systems:** pandas · ETL · Scrapy · MySQL · ClickHouse · Redis/Kafka *(design context)*  
 **APIs & tooling:** REST APIs · Webhooks · Telegram Bot API · Docker · Git  
-**AI / ML:** TensorFlow · PyTorch · Hugging Face · NLP · Computer Vision
+**AI / ML:** TensorFlow · PyTorch · model evaluation · research/reproducibility workflows
 
 ## Education
 
