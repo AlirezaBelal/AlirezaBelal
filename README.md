@@ -53,11 +53,11 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 - **[Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation)** — campaign orchestration · dry-run safety · REST gateway integration · privacy-aware logging
 - **[Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)** — ETL · normalization · data quality · downstream data contract
 - **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — onboarding · approval workflow · admin operations · Telegram/PHP/MySQL
-- **[WebMonitor](https://github.com/AlirezaBelal/WebMonitor)** — change detection · retry/backoff · state integrity · alert delivery · Docker/systemd
+- **[Web Monitor](https://github.com/AlirezaBelal/web-monitor)** — change detection · retry/backoff · state integrity · alert delivery · Docker/systemd
 
 ### Engineering utilities
 
-- **[IP Reachability Checker](https://github.com/AlirezaBelal/IPReachabilityChecker)** — bounded network diagnostics · ICMP/TCP · JSON/exit-code automation · cross-platform CI
+- **[IP Reachability Checker](https://github.com/AlirezaBelal/ip-reachability-checker)** — bounded network diagnostics · ICMP/TCP · JSON/exit-code automation · cross-platform CI
 - **[LinkedIn Connection Remover](https://github.com/AlirezaBelal/linkedin-connection-remover)** — destructive-action safety · dry-run defaults · fail-closed UI matching · privacy-safe results
 
 ### Research
