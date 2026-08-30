@@ -36,7 +36,7 @@ Contact ETL and Iranian mobile normalization with data-quality rules, privacy-sa
 ## Experience snapshot
 
 **Houbad** · *Researcher — Product & Technical Projects · Sep 2025 – Present*  
-Enterprise product work, smart-ambulance MVP delivery, technical acceptance, and project evaluation.
+Product Manager functional scope (official title: Researcher), smart-ambulance MVP delivery, technical acceptance, and project evaluation.
 
 **Arian Novin Group — Sepas** · *Technical Product Manager / Product & GTM Consultant · 2025*  
 Consumer-product launch, product operations, analytics, monetization, and go-to-market.
@@ -69,9 +69,9 @@ My MSc research artifacts cover drug–target affinity prediction, graph-based m
 
 ### Academic NLP collaboration
 
-- **[Persian NLP Course Projects — Spring 2023](https://github.com/AlirezaBelal/persian-nlp-course-projects)** — collaborative university coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis.
+- **Persian NLP Course Projects — Spring 2023** — private collaborative university coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis.
   - **Final Project — Persian Poetry Style Transfer** — collaborative NLP experimentation on Persian poetry generation/style transfer, organized as the final project of the same course.
-  - The curated course repository is private and contains sanitized assignment copies plus the fully mirrored reviewed final-project current-tree snapshot, including notebooks, reports/presentation, non-poetry inputs, and verified raw poetry data. The work is presented as collaborative coursework and no exclusive ownership claim is made.
+  - The private curated workspace retains sanitized assignment copies and the reviewed final-project snapshot. The work is presented as collaborative coursework and no exclusive ownership claim is made.
 
 ## Technical foundation
 
