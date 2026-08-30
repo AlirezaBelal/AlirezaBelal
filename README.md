@@ -67,6 +67,10 @@ Early-stage B2B mobile measurement platform covering attribution, analytics, SDK
 
 My MSc research artifacts cover drug–target affinity prediction, graph-based modeling, reproducibility, experiment provenance, test-set discipline, and leakage-aware evaluation. The consolidated thesis workspace is private because inherited research code/data do not have resolved repository-wide redistribution rights.
 
+### Academic NLP collaboration
+
+- **[NLP Assignments — Spring 2023](https://github.com/jrazi/nlp-assignments-spring-2023)** — collaborative university NLP coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis. The repository is owned by a course teammate and is linked here as collaboration evidence, not as repository ownership.
+
 ## Technical foundation
 
 **Languages:** Python · PHP · JavaScript  
