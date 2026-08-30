@@ -71,7 +71,7 @@ My MSc research artifacts cover drug–target affinity prediction, graph-based m
 
 - **[Persian NLP Course Projects — Spring 2023](https://github.com/AlirezaBelal/persian-nlp-course-projects)** — collaborative university coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis.
   - **Final Project — Persian Poetry Style Transfer** — collaborative NLP experimentation on Persian poetry style transfer and generative modeling, organized as the final project of the same course.
-  - The original source repositories are teammate-owned. The curated course repository preserves attribution and currently withholds copied source artifacts until redistribution/privacy boundaries are resolved; no exclusive ownership claim is made.
+  - The original source repositories are teammate-owned. The curated course repository is private and contains a sanitized copy of the accessible assignments coursework with provenance retained; the final-project upstream is not yet accessible through the connected GitHub integration. No exclusive ownership claim is made.
 
 ## Technical foundation
 
