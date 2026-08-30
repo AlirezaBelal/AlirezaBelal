@@ -69,7 +69,7 @@ My MSc research artifacts cover drug–target affinity prediction, graph-based m
 
 ### Academic NLP collaboration
 
-- **[NLP Assignments — Spring 2023](https://github.com/jrazi/nlp-assignments-spring-2023)** — collaborative university NLP coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis. The repository is owned by a course teammate and is linked here as collaboration evidence, not as repository ownership.
+- **NLP Assignments — Spring 2023** — collaborative university NLP coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis. The source repository is teammate-owned; the public link is intentionally omitted here until unnecessary student identifiers are removed from the current coursework tree.
 - **Persian Poetry Style Transfer** — collaborative university NLP course project focused on Persian poetry style transfer. The source repository is collaborator-owned and is not linked here while it is not publicly resolvable through the connected GitHub account.
 
 ## Technical foundation
