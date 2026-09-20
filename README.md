@@ -12,7 +12,7 @@
 
 I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work where product decisions depend on understanding systems, data, APIs, integrations, delivery constraints, and operational trade-offs.
 
-GitHub contains selected **implementation evidence**. The **[portfolio](https://alirezabelal.github.io/)** is the canonical source for Product case studies, business context, and career narrative.
+GitHub contains selected **implementation evidence**. The **[portfolio](https://alirezabelal.github.io/)** is the primary public source for Product case studies, business context, and career narrative.
 
 ## Flagship implementation
 
