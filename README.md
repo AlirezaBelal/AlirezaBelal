@@ -1,8 +1,8 @@
 <h1 align="center">Alireza Belal</h1>
 
 <p align="center">
-  <b>Technical Product Manager · B2B Analytics · Data/AI Products · Enterprise Delivery</b><br>
-  <sub>business problems → product decisions → analytics → technical execution</sub>
+  <b>Technical Product Manager</b><br>
+  <sub>product judgment → analytics → technical delivery</sub>
 </p>
 
 <p align="center">
@@ -10,82 +10,40 @@
   <a href="https://www.linkedin.com/in/alirezabelal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## Positioning
+I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work where product decisions depend on understanding systems, data, APIs, integrations, delivery constraints, and operational trade-offs.
 
-I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work across product discovery, analytics, technical design, delivery, and acceptance—especially where B2B platforms, data workflows, automation, or AI/research constraints make the product problem technically complex.
+GitHub contains selected **implementation evidence**. The **[portfolio](https://alirezabelal.github.io/)** is the canonical source for Product case studies, business context, and career narrative.
 
-GitHub contains selected implementation evidence. The **[portfolio](https://alirezabelal.github.io/)** is the canonical source for business context and case studies.
-
-## Evidence at a glance
-
-- **Product + engineering delivery** — bounded workflows, explicit failure semantics, deployable CLIs/services, Docker and CI/CD
-- **Reliability + safety** — retry/backoff, dry-run controls, fail-closed destructive actions, dependency audits, privacy/data-safety contracts
-- **Data + research discipline** — ETL/normalization, analytics pipelines, reproducibility, provenance, leakage-aware evaluation and evidence boundaries
-
-## Flagship public projects
+## Flagship implementation
 
 ### [Web Monitor](https://github.com/AlirezaBelal/web-monitor)
-Configurable multi-target webpage monitoring with retry/backoff, bounded HTTP responses, state integrity, alert delivery, dependency auditing, coverage/static-analysis gates, Docker and systemd deployment.
+Multi-target webpage monitoring with retry/backoff, explicit failure semantics, state integrity, privacy-safe health output, alert delivery, Docker/systemd deployment, and CI.
 
 ### [Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation)
-Campaign orchestration with dry-run-by-default execution, bounded batching, REST gateway integration, privacy-aware logging, data-safety checks, dependency auditing and coverage/static-analysis gates.
+Controlled campaign workflow with dry-run-by-default execution, validation, personalization, bounded batching, REST gateway integration, pacing, privacy-aware logging, and observability.
 
 ### [Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)
-Contact ETL and Iranian mobile normalization with data-quality rules, privacy-safe fixtures, packaging/CLI delivery, dependency auditing, reproducible synthetic benchmarking and coverage/static-analysis gates.
+Contact ETL and normalization with explicit data-quality rules, operator-priority selection, privacy-safe fixtures, reproducible synthetic benchmarking, packaging, and CI.
 
-## Experience snapshot
+### [Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)
+Stateful PHP/MySQL learning gateway with Telegram webhooks, persistent learner state, privacy-minimized logging, bounded retention, and fail-closed production authentication.
 
-**Houbad** · *Researcher — Product & Technical Projects · Sep 2025 – Present*  
-Product Manager functional scope (official title: Researcher), smart-ambulance MVP delivery, technical acceptance, and project evaluation.
+## Engineering signals
 
-**Arian Novin Group — Sepas** · *Technical Product Manager / Product & GTM Consultant · 2025*  
-Consumer-product launch, product operations, analytics, monetization, and go-to-market.
+- **Reliability & failure semantics** — retry/backoff, target isolation, explicit state transitions, stable exit/status behavior
+- **Safety & privacy** — dry-run controls, fail-closed actions, minimized data retention, synthetic fixtures, privacy-aware logs
+- **Data & APIs** — ETL, normalization, REST integrations, webhooks, schemas, validation, deterministic outputs
+- **Delivery discipline** — CI, dependency audits, tests, packaging, Docker/systemd deployment, reproducible workflows
+- **Human-review boundaries** — explainable heuristics, bounded automation, explicit uncertainty, no invented behavioral truth
 
-**WiseTrack** · *Product Manager · Dec 2021 – Mar 2025*  
-Early-stage B2B mobile measurement platform covering attribution, analytics, SDKs, fraud controls, and commercial validation.
+## Supporting implementation
 
-## Product × Technology
-
-- **Product** — discovery, strategy, roadmaps, PRDs, user stories, acceptance criteria, and product operations
-- **Analytics** — event taxonomy, funnels, cohorts, attribution, dashboards, and metric interpretation
-- **Technical product** — APIs, SDKs, data pipelines, backend integrations, technical acceptance, and engineering collaboration
-- **Go-to-market** — pilot validation, pricing, subscriptions, launch readiness, acquisition analysis, and monetization
-
-## More implementation evidence
-
-### Product systems & operational automation
-
-- **[Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)** — learner routing · production webhook authentication · privacy-minimized interaction logging · retention policy · PHP/MySQL
-- **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — onboarding · approval workflow · admin operations · Telegram/PHP/MySQL
-
-### Engineering utilities
-
-- **[IP Reachability Checker](https://github.com/AlirezaBelal/ip-reachability-checker)** — bounded network diagnostics · ICMP/TCP · JSON/exit-code automation · cross-platform CI
-- **[LinkedIn Connection Remover](https://github.com/AlirezaBelal/linkedin-connection-remover)** — destructive-action safety · dry-run defaults · fail-closed UI matching · privacy-safe results
-
-### Research
-
-My MSc research artifacts cover drug–target affinity prediction, graph-based modeling, reproducibility, experiment provenance, test-set discipline, and leakage-aware evaluation. The consolidated thesis workspace is private because inherited research code/data do not have resolved repository-wide redistribution rights.
-
-### Academic NLP collaboration
-
-- **Persian NLP Course Projects — Spring 2023** — private collaborative university coursework covering Persian-language processing, He-Kasreh detection, medicine-name extraction, multilingual embedding/search experiments, and sentiment analysis.
-  - **Final Project — Persian Poetry Style Transfer** — collaborative NLP experimentation on Persian poetry generation/style transfer, organized as the final project of the same course.
-  - The private curated workspace retains sanitized assignment copies and the reviewed final-project snapshot. The work is presented as collaborative coursework and no exclusive ownership claim is made.
-
-## Technical foundation
-
-**Languages:** Python · PHP · JavaScript  
-**Data & systems:** pandas · ETL · Scrapy · MySQL · ClickHouse · Redis/Kafka *(design context)*  
-**APIs & tooling:** REST APIs · Webhooks · Telegram Bot API · Docker · Git  
-**AI / ML:** TensorFlow · PyTorch · model evaluation · research/reproducibility workflows
-
-## Education
-
-**M.Sc. Computer Engineering — Bioinformatics** · Sharif University of Technology · 2021–2024  
-**B.Sc. Computer Engineering** · University of Tabriz · 2017–2021
+- **[LinkedIn Network Analyzer](https://github.com/AlirezaBelal/linkedin-network-analyzer)** — privacy-aware export analysis · explainable categorization · deterministic scoring · human review
+- **[IP Reachability Checker](https://github.com/AlirezaBelal/ip-reachability-checker)** — bounded IPv4/IPv6 diagnostics · ICMP/TCP · JSON/exit-code automation · cross-platform CI
+- **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — onboarding and approval workflow · Telegram · PHP/MySQL
+- **[Persian Programming Resources](https://github.com/AlirezaBelal/persian-programming-resources)** — curated Persian-language programming resources and community contribution
 
 <p align="center">
-  <b>Product strategy × analytics × technical execution</b><br>
-  <sub>Full context and case studies → <a href="https://alirezabelal.github.io/">Portfolio</a></sub>
+  <b>Product Manager first. Technical depth as implementation evidence.</b><br>
+  <sub>Full Product context and case studies → <a href="https://alirezabelal.github.io/">Portfolio</a></sub>
 </p>
