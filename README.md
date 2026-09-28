@@ -12,9 +12,17 @@
 
 I'm a **Technical Product Manager with a hands-on software engineering foundation**. I work where product decisions depend on understanding systems, data, APIs, integrations, delivery constraints, and operational trade-offs.
 
+**Focus:** B2B & Data Products · Product Analytics · APIs/SDKs · GTM
+
 GitHub contains selected **implementation evidence**. The **[portfolio](https://alirezabelal.github.io/)** is the primary public source for Product case studies, business context, and career narrative.
 
-## Flagship implementation
+## Product case studies
+
+- **[WiseTrack — B2B Mobile Measurement & Analytics](https://alirezabelal.github.io/work/wisetrack/)** — product discovery, analytics, SDK/API workflows, pilot-led validation, and initial commercial adoption
+- **[Houbad — Smart Ambulance MVP & Technical Acceptance](https://alirezabelal.github.io/work/houbad-smart-ambulance/)** — MVP scoping, controlled field validation, cross-functional delivery, and technical acceptance
+- **[Sepas — From Pre-launch to Public Release](https://alirezabelal.github.io/work/sepas/)** — launch strategy, product analytics, monetization, GTM, and early market validation
+
+## Flagship implementations
 
 ### [Web Monitor](https://github.com/AlirezaBelal/web-monitor)
 Multi-target webpage monitoring with retry/backoff, explicit failure semantics, state integrity, privacy-safe health output, alert delivery, Docker/systemd deployment, and CI.
