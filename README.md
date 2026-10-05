@@ -33,9 +33,6 @@ Controlled campaign workflow with dry-run-by-default execution, validation, pers
 ### [Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)
 Contact ETL and normalization with explicit data-quality rules, operator-priority selection, privacy-safe fixtures, reproducible synthetic benchmarking, packaging, and CI.
 
-### [Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)
-Stateful PHP/MySQL learning gateway with Telegram webhooks, persistent learner state, privacy-minimized logging, bounded retention, and fail-closed production authentication.
-
 ## Engineering signals
 
 - **Reliability & failure semantics** — retry/backoff, target isolation, explicit state transitions, stable exit/status behavior
@@ -47,6 +44,7 @@ Stateful PHP/MySQL learning gateway with Telegram webhooks, persistent learner s
 ## Supporting implementation
 
 - **[LinkedIn Network Analyzer](https://github.com/AlirezaBelal/linkedin-network-analyzer)** — privacy-aware export analysis · explainable categorization · deterministic scoring · human review
+- **[Conversational Learning System](https://github.com/AlirezaBelal/conversational-learning-system)** — stateful Telegram learning gateway · PHP/MySQL · persistent learner state · privacy-minimized logging · fail-closed webhook authentication
 - **[IP Reachability Checker](https://github.com/AlirezaBelal/ip-reachability-checker)** — bounded IPv4/IPv6 diagnostics · ICMP/TCP · JSON/exit-code automation · cross-platform CI
 - **[Travel Tour Reservation Bot](https://github.com/AlirezaBelal/travel-tour-reservation-bot)** — onboarding and approval workflow · Telegram · PHP/MySQL
 - **[Persian Programming Resources](https://github.com/AlirezaBelal/persian-programming-resources)** — curated Persian-language programming resources and community contribution
