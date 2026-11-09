@@ -30,13 +30,13 @@ A Persian-first text analysis product with **seven integrated workspaces**, resp
 
 **[Use the live application](https://alirezabelal.github.io/persian-nlp-studio/)** — evidence of product execution, privacy-conscious design, and technical delivery.
 
-### [Web Monitor](https://github.com/AlirezaBelal/web-monitor)
+### [Web Monitor](https://github.com/AlirezaBelal/web-monitor) · [Live documentation site](https://alirezabelal.github.io/web-monitor/)
 Multi-target webpage monitoring with retry/backoff, explicit failure semantics, state integrity, privacy-safe health output, alert delivery, Docker/systemd deployment, and CI. Demonstrates reliability and operational engineering.
 
-### [Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline)
+### [Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline) · [Browser-local tool](https://alirezabelal.github.io/iran-contact-data-pipeline/)
 Contact ETL and normalization with explicit data-quality rules, operator-priority selection, synthetic fixtures, reproducible benchmarking, packaging, and CI. Demonstrates data-product foundations and measurable validation.
 
-### [Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation)
+### [Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation) · [Interactive Dry Run site](https://alirezabelal.github.io/batch-sms-campaign-automation/)
 Controlled campaign workflow with dry-run defaults, validation, personalization, bounded batching, REST gateway integration, pacing, privacy-aware logging, and observability. Demonstrates integration delivery with explicit operational safeguards.
 
 ## Supporting implementations
