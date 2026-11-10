@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://alirezabelal.github.io/">Portfolio &amp; case studies</a> ·
-  <a href="https://alirezabelal.github.io/Alireza-Belal-Technical-Product-Manager-Resume.pdf">Download resume (PDF)</a> ·
   <a href="https://alirezabelal.github.io/contact/">Contact</a> ·
   <a href="https://www.linkedin.com/in/alirezabelal/">LinkedIn</a>
 </p>
