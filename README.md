@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://alirezabelal.github.io/">Portfolio &amp; case studies</a> ·
+  <a href="https://alirezabelal.github.io/Alireza-Belal-Technical-Product-Manager-Resume.pdf">Download resume (PDF)</a> ·
   <a href="https://alirezabelal.github.io/contact/">Contact</a> ·
   <a href="https://www.linkedin.com/in/alirezabelal/">LinkedIn</a>
 </p>
@@ -15,7 +16,9 @@ I'm a **Technical Product Manager with a hands-on software engineering foundatio
 
 **Focus:** B2B and data products · Product analytics · APIs and integrations · Technical delivery · GTM
 
-My **[portfolio](https://alirezabelal.github.io/)** brings together product case studies, business context, and career narrative. The public projects below provide supporting evidence of how I build, validate, and deliver usable systems.
+I'm open to **product management roles and project collaborations** in product analytics, data products, and digital product delivery. Have a product challenge or an idea to validate? **[Let's talk](https://alirezabelal.github.io/contact/).**
+
+My **[portfolio](https://alirezabelal.github.io/)** brings together product case studies, business context, and career narrative. The projects below show how I build, validate, and deliver usable systems.
 
 ## Product case studies
 
@@ -26,24 +29,24 @@ My **[portfolio](https://alirezabelal.github.io/)** brings together product case
 ## Selected product and implementation evidence
 
 ### [Persian NLP Studio — متن‌نما](https://github.com/AlirezaBelal/persian-nlp-studio)
-A Persian-first text analysis product with **seven integrated workspaces**, responsive product UX, and an accessible RTL interface. Text processing stays in the browser; automated quality checks support delivery through GitHub Pages. Its current analysis is lexical and rule-based, with explicit limits rather than trained-model claims.
+Seven browser-based Persian text tools with accessible RTL UX. Analysis stays in the browser and is **lexical/rule-based**, not a trained AI model.
 
-**[Use the live application](https://alirezabelal.github.io/persian-nlp-studio/)** — evidence of product execution, privacy-conscious design, and technical delivery.
+**[Use the live application](https://alirezabelal.github.io/persian-nlp-studio/)**
 
 ### [Web Monitor](https://github.com/AlirezaBelal/web-monitor) · [Live documentation site](https://alirezabelal.github.io/web-monitor/)
-Multi-target webpage monitoring with retry/backoff, explicit failure semantics, state integrity, privacy-safe health output, alert delivery, Docker/systemd deployment, and CI. Demonstrates reliability and operational engineering.
+Multi-target monitoring with retries, explicit failure handling, privacy-safe health output, alerts, and Docker/systemd deployment.
 
 ### [Iranian Contact Data Pipeline](https://github.com/AlirezaBelal/iran-contact-data-pipeline) · [Browser-local tool](https://alirezabelal.github.io/iran-contact-data-pipeline/)
-Contact ETL and normalization with explicit data-quality rules, operator-priority selection, synthetic fixtures, reproducible benchmarking, packaging, and CI. Demonstrates data-product foundations and measurable validation.
+Contact-data cleaning and normalization with transparent quality rules, synthetic fixtures, reproducible checks, and a browser-local CSV tool.
 
 ### [Batch SMS Campaign Automation](https://github.com/AlirezaBelal/batch-sms-campaign-automation) · [Interactive Dry Run site](https://alirezabelal.github.io/batch-sms-campaign-automation/)
-Controlled campaign workflow with dry-run defaults, validation, personalization, bounded batching, REST gateway integration, pacing, privacy-aware logging, and observability. Demonstrates integration delivery with explicit operational safeguards.
+Consent-based SMS workflows with dry-run defaults, validation, controlled batching, REST gateway integration, and privacy-aware logging.
 
 ## Supporting implementations
 
-- **[Telegram Learning Gateway](https://github.com/AlirezaBelal/telegram-learning-gateway)** — Persian navigation, course-bot deep links, minimal learner state, and authenticated webhook handling in PHP/MySQL.
-- **[LinkedIn Network Analyzer](https://github.com/AlirezaBelal/linkedin-network-analyzer)** — privacy-aware export analysis, explainable categorization, deterministic scoring, and human review.
-- **[IP Reachability Checker](https://github.com/AlirezaBelal/ip-reachability-checker)** — bounded IPv4/IPv6 diagnostics, ICMP/TCP checks, JSON/exit-code automation, and cross-platform CI.
+- **[Telegram Learning Gateway](https://github.com/AlirezaBelal/telegram-learning-gateway)** — Persian course navigation, bot deep links, minimal learner state, and authenticated PHP webhooks.
+- **[LinkedIn Network Analyzer](https://github.com/AlirezaBelal/linkedin-network-analyzer)** — privacy-aware network analysis with explainable categories, scoring, and human review.
+- **[IP Reachability Checker](https://github.com/AlirezaBelal/ip-reachability-checker)** — bounded IPv4/IPv6 diagnostics with ICMP/TCP checks and machine-readable output.
 
 ## How I work
 
